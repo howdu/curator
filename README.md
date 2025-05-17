@@ -1,3 +1,5 @@
+⚠️ This package is archived. Please use [awcodes/filament-curator](https://github.com/awcodes/filament-curator) instead.
+
 # Filament Curator
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/awcodes/curator.svg?style=flat-square)](https://packagist.org/packages/awcodes/curator)
